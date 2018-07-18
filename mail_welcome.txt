@@ -5,15 +5,25 @@ The Chinese version of this welcome message can be found on https://mail.hsieh.c
 Feel free to use Chinese in your mails.
 
 For Mailing List Beginners:
+
 1. We encourage you to register at mail.hsieh.cc to gain access to full functionality and customization power, but this is not mandatory.
+
 2. To open a new discussion (thread), simply email to research@hsieh.cc . The mail will be automatically forwarded to all subscribers
+
 3. To reply to a discussion, simply reply to the email sent by research@hsieh.cc .
+
 4. All mails will be archieved to https://mail.hsieh.cc/hyperkitty, feel free to check them out whenever you need to.
+
 5. To unsubsribe, go to mail.hsieh.cc, or email research-owner@hsieh.cc .
 
+6. The mailing list is currently anonymous, but we encourage you to leave you identity at the end of the mail (initials, nicknames are acceptable).
+
 Mailing List Etiquette:
+
 1. Be Civil
+
 2. Please refrain from mentioning your investment position in your mail.
+
 3. We welcome all discussions, but leave all the nonsense  PTT Stock.
 
 Our service is currently built upon GNU Mailman3, deployed on Google Cloud Platform. Please note that:
