@@ -1,19 +1,22 @@
-歡迎加入 General Research@hsieh.cc （名稱募集中）的通訊清單（ Mailing List ），我們是以討論總體經濟、國際金融為主軸的通訊清單。 
+Welcome to the "General Research@hsieh.cc" mailing list. We here are all about exhanging opinions on Macroeconomics / Interantional Finance.
 
-操作說明：
-1. 我們鼓勵你至 mail.hsieh.cc 註冊帳號以享有更多功能，但並非必須。
-2. 想開啟新議題請寄信至 research@hsieh.cc，該信件將自動轉寄給通訊清單上所有訂閱者。
-3. 欲回覆議題，對收到的議題信件回信即可。
-4. 所有的信件均會自動歸檔至 mail.hsieh.cc/hyperkitty ，方便日後查詢。
-5. 欲取消訂閱可至 mail.hsieh.cc 管理，或寄信至 research-owner@hsieh.cc。
+Sorry for the English welcome message, Mailman3 currently has some issue supporting Unicode texts.
+The Chinese version of this welcome message can be found on https://mail.hsieh.cc/postorius/lists/research.hsieh.cc/
+Feel free to use Chinese in your mails.
 
-使用禮儀：
-1. 文明對話。（ Be Civil ）
-2. 請避免談及自己的投資部位。
-3. 我們不排斥針對單一標的的討論，但請把空泛的標的文留給 PTT Stock。
+For Mailing List Beginners:
+1. We encourage you to register at mail.hsieh.cc to gain access to full functionality and customization power, but this is not mandatory.
+2. To open a new discussion (thread), simply email to research@hsieh.cc . The mail will be automatically forwarded to all subscribers
+3. To reply to a discussion, simply reply to the email sent by research@hsieh.cc .
+4. All mails will be archieved to https://mail.hsieh.cc/hyperkitty, feel free to check them out whenever you need to.
+5. To unsubsribe, go to mail.hsieh.cc, or email research-owner@hsieh.cc .
 
-我們的服務目前是架設 GNU Mailman3 在 GCP 上，以下幾點向各位說明：
-1. GNU Mailman 3 以 Python 重寫，除搭配通用架構 Django 外，亦使用專為 Mailman3 開發的 Posterious / Hyperkitty 框架，為一大型專案。
-但其開發期較短，目前源代碼仍在快速變遷，設定檔 / API 也時有更動。許多功能仍未臻至完善，若使用時遭遇問題，實屬正常。未來版本升級也可能使服務短暫下線。
+Mailing List Etiquette:
+1. Be Civil
+2. Please refrain from mentioning your investment position in your mail.
+3. We welcome all discussions, but leave all the nonsense  PTT Stock.
 
-2. 目前伺服器佈署於 Google Cloud Platform 上，但其價格昂貴，未來勢必有減少租借資源或搬遷平台的需要，可能造成穩定性及響應性的問題，還請見諒。
+Our service is currently built upon GNU Mailman3, deployed on Google Cloud Platform. Please note that:
+1. GNU Mailman 3 was rewritten with Python. While using Django as the standard web framework, the project also includes Posterious and Hyperkitty, both rewritten specifically for Mailman3. However, the source code is still under constant development, and configuration / APIs are chaging every version. Thus it is totally possible that you will run into multiple bugs while using our services. Future upgrades might also cause our services to go offline for a short time period.
+
+2. Our server is presently deployed on GCP. Due to the pricing of GCP, a downgrade of computation resource or migration to other platforms is planned. The stability and responsiveness might be affected thereafter.
