@@ -1,0 +1,19 @@
+歡迎加入 General Research@hsieh.cc （名稱募集中）的通訊清單（ Mailing List ），我們是以討論總體經濟、國際金融為主軸的通訊清單。 
+
+操作說明：
+1. 我們鼓勵你至 mail.hsieh.cc 註冊帳號以享有更多功能，但並非必須。
+2. 想開啟新議題請寄信至 research@hsieh.cc，該信件將自動轉寄給通訊清單上所有訂閱者。
+3. 欲回覆議題，對收到的議題信件回信即可。
+4. 所有的信件均會自動歸檔至 mail.hsieh.cc/hyperkitty ，方便日後查詢。
+5. 欲取消訂閱可至 mail.hsieh.cc 管理，或寄信至 research-owner@hsieh.cc。
+
+使用禮儀：
+1. 文明對話。（ Be Civil ）
+2. 請避免談及自己的投資部位。
+3. 我們不排斥針對單一標的的討論，但請把空泛的標的文留給 PTT Stock。
+
+我們的服務目前是架設 GNU Mailman3 在 GCP 上，以下幾點向各位說明：
+1. GNU Mailman 3 以 Python 重寫，除搭配通用架構 Django 外，亦使用專為 Mailman3 開發的 Posterious / Hyperkitty 框架，為一大型專案。
+但其開發期較短，目前源代碼仍在快速變遷，設定檔 / API 也時有更動。許多功能仍未臻至完善，若使用時遭遇問題，實屬正常。未來版本升級也可能使服務短暫下線。
+
+2. 目前伺服器佈署於 Google Cloud Platform 上，但其價格昂貴，未來勢必有減少租借資源或搬遷平台的需要，可能造成穩定性及響應性的問題，還請見諒。
